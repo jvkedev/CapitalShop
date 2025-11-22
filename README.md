@@ -78,11 +78,21 @@ cd frontend
 npm start
 
 ```
+## Notes
 
-<hr/>
-<hr/>
+- This project uses the MERN stack with Bootstrap for the UI.
+- The frontend and backend are placed in separate folders to match a real project structure.
+- JWT is used for user authentication and protecting routes.
+- Basic payment integration is included for learning how checkout flows work.
+- The project covers essential e-commerce features like products, cart, login, and orders.
+- This setup is meant for learning and practice, not production deployment.
 
-### Author
+---
 
-JVKE
+## License
+
+This project is for educational purposes only.
+
+## Author
+### JVKE
 
